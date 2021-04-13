@@ -9,7 +9,7 @@
   "dependencies": {
     "bn.js": "^4.11.8",
     "ethereumjs-abi": "^0.6.5",
-    "ethereumjs-util": "^6.1.0",
+    "ethereumjs-util": "^6.2.1",
     "ethers": "^4.0.47",
     "js-sha3": "^0.8.0",
     "solc": "0.5.13",
